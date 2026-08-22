@@ -1,4 +1,4 @@
-# 🤖 AI Chat with Groq
+# 🤖 AI Chat with Grok
 
 A simple AI chatbot built using **Streamlit**, **LangChain**, and **Groq Llama 3.3 70B**.
 
